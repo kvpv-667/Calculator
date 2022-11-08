@@ -1,0 +1,15 @@
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.csproj.AssemblyReference.cache
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.AssemblyInfoInputs.cache
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.AssemblyInfo.cs
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.csproj.CoreCompileInputs.cache
+D:\ОАиП ССА\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.exe
+D:\ОАиП ССА\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.deps.json
+D:\ОАиП ССА\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.runtimeconfig.json
+D:\ОАиП ССА\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.dll
+D:\ОАиП ССА\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.pdb
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.dll
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\refint\Калькулятор.dll
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.pdb
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.genruntimeconfig.cache
+D:\ОАиП ССА\Калькулятор\Калькулятор\obj\Debug\net6.0\ref\Калькулятор.dll
